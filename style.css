@@ -23,7 +23,7 @@ html,body {
     #home img {
       width: 100%;
       max-width: 440px;
-      height: 445px;
+      height: 450px;
       border-radius: 50%;
       object-fit: cover;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
